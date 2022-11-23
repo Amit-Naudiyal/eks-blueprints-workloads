@@ -3,6 +3,6 @@ spec:
     server: https://kubernetes.default.svc
   source:
     repoURL: https://github.com/Amit-Naudiyal/eks-blueprints-workloads
-    targetRevision: main
+    targetRevision: amit-project
   ingress:
     host: dev.example.com
